@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/a22646a3-d8b2-4fe8-94b2-44cebb6f537a)
 
-### Etapas
+### Etapas:
 1. Criação Linked service
 2. Criação do dataset de origem
 3. Criação do dataset de destino
@@ -13,7 +13,7 @@
 
 🇬🇧 This repository contains a project demonstrating how to use Azure Data Factory to create a data pipeline that extracts data from a URL, transforms it into Parquet format, and stores it in Azure Storage Accounts
 
-###Steps:
+### Steps:
 1. Creation of Linked Service
 2. Creation of Source Dataset
 3. Creation of Destination Dataset
