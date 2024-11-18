@@ -1,6 +1,7 @@
 # url-to-parquet-adf (in progress)
 
-![image](https://github.com/user-attachments/assets/a22646a3-d8b2-4fe8-94b2-44cebb6f537a)
+![image](https://github.com/user-attachments/assets/89abe52e-ba9f-414f-94be-8a57dbe58ea2)
+
 
 ### Etapas:
 1. Criação Linked service
@@ -9,9 +10,9 @@
 4. Criação da pipeline de extração e carregamento
 
 
-🇧🇷 Este repositório contém um projeto que demonstra como usar o Azure Data Factory para criar um pipeline de dados que extrai dados de uma URL, transforma em formato Parquet e os armazena no Azure Storage Accounts.
+🇧🇷 Este repositório contém um projeto que demonstra como usar o Azure Data Factory para criar um pipeline de dados que extrai dados de uma URL e os armazena no Azure SQL Database.
 
-🇬🇧 This repository contains a project demonstrating how to use Azure Data Factory to create a data pipeline that extracts data from a URL, transforms it into Parquet format, and stores it in Azure Storage Accounts
+🇬🇧 This repository contains a project demonstrating how to use Azure Data Factory to create a data pipeline that extracts data from a URL and stores it in Azure SQL Database.
 
 ### Steps:
 1. Creation of Linked Service
